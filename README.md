@@ -74,6 +74,8 @@ Widget and Features
 + Icon by FontAwesome
 + Auto SEO Injection Script by Adam Dj Brett
 + Workflow Action Ready deploy to your Cpanel Host
++ Dark Light Mode Support
++ Google Font
 
 ---
 
